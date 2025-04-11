@@ -12,5 +12,5 @@ Vicente is interested in developing computational imaging tools to study neurosc
 **Office**<br>
 Edificio Ciencia y Tecnología, piso 7, oficina 9 <br>
 Avenida Vicuña Mackenna 4860 <br>
-Macul, Santiago, Chile
+Macul 7820244, Santiago, Chile
 
