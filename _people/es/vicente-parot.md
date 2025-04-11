@@ -12,5 +12,5 @@ Vicente está interesado en desarrollar herramientas de imagen computacional par
 **Oficina**<br>
 Edificio Ciencia y Tecnología, piso 7, oficina 9 <br>
 Avenida Vicuña Mackenna 4860 <br>
-Macul, Santiago, Chile
+Macul 7820244, Santiago, Chile
 
