@@ -1,7 +1,7 @@
 ---
 name: Tomás Castillo
 ref: toms.castillo@uc.cl
-position: undergrad
+position: alumni
 description: 'Undergrad research'
 when: '2024-1'
 ---

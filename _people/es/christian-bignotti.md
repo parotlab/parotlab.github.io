@@ -1,9 +1,9 @@
 ---
 name: Christian Bignotti
 ref: cbignot1@swarthmore.edu
-position: visiting
+position: alumni
 description: 'Visitante en investigación de pregrado'
-when: '2024'
+when: 'Invierno austral 2024'
 ---
 
 - _Estudiante de pregrado, Ingeniería y Matemáticas Aplicadas, Swarthmore College_

@@ -1,9 +1,9 @@
 ---
 name: Ignacio Vivancos
 ref: nvivancos12@tamu.edu
-position: visiting
+position: alumni
 description: 'Visitante en investigación de pregrado'
-when: '2024'
+when: 'Invierno austral 2024'
 ---
 
 - _Estudiante de pregrado, Ingeniería Aeroespacial, Texas A&M University_

@@ -1,7 +1,7 @@
 ---
 name: Iván Vergara
 ref: ivl@uc.cl
-position: undergrad
+position: alumni
 description: 'Investigación de pregrado'
 when: '2022-1 y 2023-2'
 ---

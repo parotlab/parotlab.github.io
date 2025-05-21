@@ -1,7 +1,9 @@
 ---
 name: Maximiliano Valdés
 ref: mvvaldes2@uc.cl
-position: ms-student
+position: alumni
+description: 'Magíster Ing Eléctrica'
+when: '2024-2'
 ---
 
 - _Estudiante de Magíster en Ciencias de la Ingeniería, Escuela de Ingeniería, Pontificia Universidad Católica de Chile_

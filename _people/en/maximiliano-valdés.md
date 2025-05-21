@@ -1,7 +1,9 @@
 ---
 name: Maximiliano Valdés
 ref: mvvaldes2@uc.cl
-position: ms-student
+position: alumni
+description: 'EE MS student'
+when: '2024-2'
 ---
 
 - _MS student, Engineering School, Catholic University of Chile_

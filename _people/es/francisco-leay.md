@@ -1,8 +1,8 @@
 ---
 name: Francisco Leay
 ref: fleay@uc.cl
-position: undergrad
-description: 'Undergrad research'
+position: alumni
+description: 'Investigación de pregrado'
 when: '2023-2'
 ---
 

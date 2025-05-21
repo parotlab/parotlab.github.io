@@ -1,7 +1,7 @@
 ---
 name: Rodrigo Vera
 ref: rcvera@uc.cl
-position: undergrad
+position: alumni
 description: 'Undergrad research'
 when: '2024-1'
 ---

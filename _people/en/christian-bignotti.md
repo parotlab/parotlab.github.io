@@ -1,9 +1,9 @@
 ---
 name: Christian Bignotti
 ref: cbignot1@swarthmore.edu
-position: visiting
+position: alumni
 description: 'Undergrad research visitor'
-when: '2024'
+when: 'Northern summer 2024'
 ---
 
 - _Undergrad student, Engineering and Applied Mathematics, Swarthmore College_

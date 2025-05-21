@@ -1,8 +1,8 @@
 ---
 name: Ignacio Wang
 ref: ignacio.wang@uc.cl
-position: undergrad
-description: 'Undergrad research'
+position: alumni
+description: 'Investigación de pregrado'
 when: '2023-2'
 ---
 

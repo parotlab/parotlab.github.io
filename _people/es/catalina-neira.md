@@ -1,8 +1,8 @@
 ---
 name: Catalina Pilar Neira Cárdenas
 ref: c.neira.c@uc.cl
-position: undergrad
-description: 'Undergrad research'
+position: alumni
+description: 'Investigación de pregrado'
 when: '2024-1'
 ---
 

@@ -1,9 +1,9 @@
 ---
 name: Ignacio Vivancos
 ref: nvivancos12@tamu.edu
-position: visiting
+position: alumni
 description: 'Undergrad research visitor'
-when: '2024'
+when: 'Northern summer 2024'
 ---
 
 - _Undergrad student, Aerospace Engineering, Texas A&M University_
