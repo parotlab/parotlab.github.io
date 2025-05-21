@@ -1,5 +1,5 @@
 ---
-name: John Osborn
+name: John Calvin Osborn
 ref: john_osborn@tamu.edu
 position: visiting
 description: 'Visitante en investigación de pregrado'
