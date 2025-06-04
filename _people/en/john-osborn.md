@@ -6,6 +6,6 @@ description: 'Undergrad research visitor'
 when: 'Northern summer 2025'
 ---
 
-- _Undergrad student, Biomedical Engineering, Texas A&M University_
+- _Undergraduate student, Department of Biomedical Engineering, Texas A&M University College of Engineering_
 
-John is visiting Santiago for a few months as part of his summer abroad program. John is conducting research to develop live display of optical sectioning imaging data for fluorescence microscopy. In this project, he has been learning to interface software and hardware for microscope control, and data acquisition and processing.
+John is a visiting undergraduate student from Texas A&M and supervised by Vicente Parot. John is working on improving the software used in computational imaging.

@@ -6,6 +6,6 @@ description: 'Visitante en investigación de pregrado'
 when: 'Invierno austral 2025'
 ---
 
-- _Estudiante de pregrado, Ingeniería Biomédica, Texas A&M University_
+- _Estudiante de pregrado, Departamento de Ingeniería Biomédica, Facultad de Ingeniería de la Universidad Texas A&M_
 
-John está de visita en Santiago por algunos meses como parte de su programa de verano en el extranjero. John está realizando una investigación para desarrollar la visualización en vivo de datos de imágenes de secciones ópticas para microscopía de fluorescencia. En este proyecto, ha estado aprendiendo a interconectar software y hardware para el control del microscopio, y la adquisición y procesamiento de datos.
+John es un estudiante visitante de pregrado desde Texas A&M, supervisado por Vicente Parot. John trabaja en la mejora del software utilizado en imágenes computacionales.
