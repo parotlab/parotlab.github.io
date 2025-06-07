@@ -8,10 +8,16 @@ ref: 3-pubs
 
 También en <a href="https://scholar.google.com/citations?user=RiMA-zwAAAAJ&sortby=pubdate">Google Scholar</a>.
 
+_Optogenetic control of Nodal signaling patterns_<br>
+Harold M McNamara, Alison M Guyer, Bill Z Jia, Vicente J Parot, Caleb D Dobbs, Alexander F Schier, Adam E Cohen, Nathan D Lord <br>
+Development (2025). [pdf principal](/files/pubs/journal/dev/dev204506.pdf), [pdf suplemento](/files/pubs/journal/dev/dev204506supp.pdf), [link editorial](https://doi.org/10.1242/dev.204506)
+
+
 <img class="pfloat-right" src="/images/pubs/202300 mmf dispersion.jpg" width="25%" loading="lazy" data-action=zoom>
 _Efficient dispersion modeling in optical multimode fiber_<br>
 S.-Y. Lee, V. J. Parot, B. E. Bouma, and M. Villiger <br>
 Light: Science & Applications, vol. 12, no. 1, (2023). [pdf principal](https://www.nature.com/articles/s41377-022-01061-7.pdf), [pdf suplemento](https://static-content.springer.com/esm/art%3A10.1038%2Fs41377-022-01061-7/MediaObjects/41377_2022_1061_MOESM1_ESM.pdf), [link editorial](https://doi.org/10.1038/s41377-022-01061-7), [en las noticias](https://www.eurekalert.org/news-releases/978497)
+
 
 _Video-based pooled screening yields improved far-red genetically encoded voltage indicators_<br>
 H. Tian, H. C. Davis, J. D. Wong-Campos, P. Park, L. Z. Fan, B. Gmeiner, S. Begum, C. A. Werley, G. B. Borja, H. Upadhyay, H. Shah, J. Jacques, Y. Qi, V. Parot, K. Deisseroth and A. E. Cohen <br>
