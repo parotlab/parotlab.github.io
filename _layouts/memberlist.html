@@ -9,6 +9,9 @@ layout: default
 	{% if people_in_role.size == 0 and role != 'alumni'%}
 		{% continue %}
 	{% endif %}
+	{% if role == 'alumni'%}
+		<img class='img-responsive center-block' src="/images/people/2025-06-06 group photo.jpg" width="50%" height="80%" data-action="zoom">
+	{% endif %}
   <h3 class="pos-header">{{ page.role_tags[role] }}</h3>
   {% if role != 'alumni' %}
   <div class="content list people">
@@ -27,7 +30,6 @@ layout: default
     {% endfor %}
   </div>    
   <hr>
-  <img class='img-responsive center-block' src="/images/people/2025-06-06 group photo.jpg" width="50%" height="80%" data-action="zoom">
   {% else %}
     <table>
       <thead>
